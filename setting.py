@@ -1,0 +1,5 @@
+APP_ID = "19493505"
+API_KEY = "aGTWC8vKHmet4xve3GVCTaay"
+SECRET_KEY = "nZL0QqGTb7r3NfcPdSRMVUxKCcAELTOp"
+
+WAV_FILE = "temp_audio.wav"
